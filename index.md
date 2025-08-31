@@ -44,7 +44,7 @@ public class Main {
 
 _Italic_ (is \_Italic\_ different from \*Italic\*?)
 
-`print(f"Hello, {name})`
+`print(f"Hello, {name}")`
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
