@@ -26,6 +26,22 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Test
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+```
+## Test again!
+**Bold**
+*Italic*
+==I wonder if this works==
+_Italic_ (is \_Italic_\ different from \*Italic\*?)
+`print(f"Hello, {name})`
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
