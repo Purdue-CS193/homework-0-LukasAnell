@@ -36,11 +36,16 @@ public class Main {
 }
 ```
 ## Test again!
-**Bold**\n
-*Italic*\n
-==I wonder if this works==\n
-_Italic_ (is \_Italic\_ different from \*Italic\*?)\n
-`print(f"Hello, {name})`\n
+**Bold**
+
+*Italic*
+
+==I wonder if this works==
+
+_Italic_ (is \_Italic\_ different from \*Italic\*?)
+
+`print(f"Hello, {name})`
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
